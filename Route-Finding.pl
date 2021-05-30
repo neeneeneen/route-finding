@@ -1,8 +1,4 @@
-/*
-COMP304 Assignment 4 
-*/
-
-/* As an overview of the assignment, I found that there is some error with my choices which could be influenced by my route function. There are a
+/* As an overview of the program, I found that there is some error with my choices which could be influenced by my route function. There are a
 few tests at the bottom which demonstrate the functionality of each function and are in form : t1(). Though individually, the route function does work as intended
 but seem to provide some error upon being used with findall. */
 
